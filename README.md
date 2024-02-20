@@ -6,7 +6,9 @@ Chainlink is a decentralized oracle network that enables smart contracts on vari
 
 ## 🔥 Quick Preview
 
-<img src="https://github.com/youssifsamir/Blockchain-App/assets/113045942/f91048d3-a5ad-4c29-8720-6f90604a6ff5" width="300" height="600" />
+<p align="center">
+  <img src="https://github.com/youssifsamir/Blockchain-App/assets/113045942/f91048d3-a5ad-4c29-8720-6f90604a6ff5" width="300" height="600" />
+</p>
 
 
 ## Features
