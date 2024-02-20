@@ -10,18 +10,13 @@ Chainlink is a decentralized oracle network that enables smart contracts on vari
 
 
 ## Features
+- Fetching blockchain data using Chainlink oracle services.
+- Interaction with implemented smart contracts to perform specific tasks.
+- Integration with MetaMask wallet for Ethereum transactions and account management.
+- Displaying blockchain data in the Flutter mobile application UI.
+- Seamless integration of blockchain functionality with Flutter Dart.
+- Efficient API calls to interact with external data sources and services.
 
-- **Smart Contracts**: Utilization of smart contracts to communicate with Chainlink network.
-  
-- **MetaMask Wallet**: A crypto wallet and gateway to blockchain apps. MetaMask allows users to interact with the Ethereum blockchain from within the Flutter Dart application.
-  
-- **Wallet Private Key Authentication:** Ensure secure access to the app with private wallet key authentication functionality.
-
-- **API Calls:** Efficient API calls to interact with external data sources and services.
-  
-- **Clean UI/UX:** Enjoy a visually appealing interface designed for easly navigation and intuitive use.
-  
-- **Smooth Usability:** Experience seamless interactions and fluid transitions throughout the app.
   
   
 ## Getting Started
