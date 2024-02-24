@@ -1,6 +1,6 @@
 # Blockchain App
 
-This Flutter Dart mobile application showcases the integration of Chainlink services to interact with blockchain data.</br>
+This Flutter Dart mobile application showcases the integration of Chainlink services interacting with blockchain data.</br>
 Chainlink is a decentralized oracle network that enables smart contracts on various networks to securely interact with external data sources.
 
 
