@@ -23,7 +23,7 @@ Chainlink is a decentralized oracle network that enables smart contracts on vari
   
 ## Getting Started
 
-To get started with the Baby Gears Rental App:
+To get started with the Blockchain App:
 
   1. Clone this repository to your local machine.
   2. Ensure you have Flutter SDK installed. If not, follow the official installation guide.
